@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.class
+/target
+/.idea
+*.gif
+*.9.png
+*.png
+*.ico
+*.jpg
+*/static/imagenes
